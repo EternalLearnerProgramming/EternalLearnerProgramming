@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EternalLearnerProgramming
-- 👀 I’m interested in Python, ReactJS, C#
-- 🌱 I’m currently learning Python, ReactJS and C#
-- 💞️ I’m looking to collaborate on Python, ReactJS and C#
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Python, NodeJs and C#
+- 💞️ I’m looking to collaborate on Python, NodeJs and C#
 - 📫 How to reach me: the.eternal.learner.programming@gmail.com
 
 <!---
