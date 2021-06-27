@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EternalLearnerProgramming
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Python, NodeJs and C#
-- 💞️ I’m looking to collaborate on Python, NodeJs and C#
+- 🌱 I’m currently learning Python, NodeJs, C# and Elixir
+- 💞️ I’m looking to collaborate on Python, NodeJs, C# and Elixir
 - 📫 How to reach me: the.eternal.learner.programming@gmail.com
 
 <!---
